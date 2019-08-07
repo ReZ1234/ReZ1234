@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("607318916309712908")
+let channel =     client.channels.get("608792503096705097")
 setInterval(function() {
 channel.send(`ReZoSE YT`);
 }, 30)
